@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Siddhartha Bhat
 
-## 🤖 Machine Learning Engineer | AI Tinkerer
+## 🤖 AI Tinkerer
 
-I enjoy solving practical problems and understanding technology in depth.
+Curious about how things work. Driven to make things useful.
 
 ---
 
